@@ -12,7 +12,7 @@ Building modern, interactive web applications and exploring creative solutions.
 
 Category | Technologies
 ---|---
-🎨 Frontend | HTML, CSS, JavaScript, React, Tailwind
+🎨 Frontend | HTML, CSS, JavaScript
 🛠️ Backend | None yet
 🗄️ Database | None yet
 ☁️ Cloud & Hosting | GitHub Pages

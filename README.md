@@ -25,7 +25,7 @@ Category | Technologies
 | Project | Stack | Live Demo |
 |---------|-------|-----------|
 | [Agrihub] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/Agrihub/) |
-| [Tutorial Center Website] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/Physics/) |
+| [Tutorial Center Website] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/Tutorial-center/) |
 
 ### 📦 Mini-Projects
 | Project | Stack | Link |
@@ -34,14 +34,6 @@ Category | Technologies
 
 ### 🤝 Group Projects
 None yet, but planning to collaborate on open-source projects soon!  
-
----
-
-## 📊 GitHub Stats
-
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-danix&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-danix&layout=compact&theme=radical)
 
 ---
 

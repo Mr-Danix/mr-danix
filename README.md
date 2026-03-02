@@ -11,7 +11,7 @@ Building modern, interactive web applications and exploring creative solutions. 
 Category | Technologies
 ---|---
 🎨 Frontend | HTML, CSS, JavaScript
-🛠️ Backend | Node.js (lea), PHP (learning)
+🛠️ Backend | Node.js (lear), PHP (learning)
 🗄️ Database | MySQL, PostgreSQL (learning)
 ☁️ Cloud & Hosting | GitHub Pages, Vercel
 🔌 BaaS | Supabase (learning)

@@ -1,41 +1,67 @@
-## Hi there 👋
+# Hi there 👋, I'm Dan Maregn
 
-<< Hi there, waving-hand I'm Dan Maregn />
-
-Hi, I'm Dan Maregn 👋  
 15 years old, student  
-
 Front-End Web Developer  
-Building modern, interactive web applications and exploring creative solutions.
+Building modern, interactive web applications and exploring creative solutions. Passionate about creating responsive, user-friendly websites and continuously learning new web technologies.  
 
-🧰 Tech Stack
+---
+
+## 🧰 Tech Stack
 
 Category | Technologies
 ---|---
-🎨 Frontend | HTML, CSS, JavaScript
-🛠️ Backend | None yet
-🗄️ Database | None yet
-☁️ Cloud & Hosting | GitHub Pages
-🔌 BaaS | None yet
+🎨 Frontend | HTML, CSS, JavaScript, React, Tailwind
+🛠️ Backend | Node.js (basic), PHP (learning)
+🗄️ Database | MySQL, PostgreSQL (learning)
+☁️ Cloud & Hosting | GitHub Pages, Vercel
+🔌 BaaS | Supabase (learning)
 🎨 Design | Figma, Canva
 
-🌍 Project Highlights
+---
 
-🏆 Main Projects
-🚀 Project | 🔧 Stack | 👁️ View
-[Agrihub] | Front-End | [Live Site](https://mr-danix.github.io/Agrihub/)
-[Tutorial Center Website] | Front-End | [Live Site](https://yourusername.github.io/tutorial-center/)
+## 🌍 Project Highlights
 
-📦 Mini-Projects
-🚀 Project | 🔧 Stack | 👁️ View
-[Portfolio Website] | Front-End | [Live Site](https://mr-danix.github.io/Portifolio/)
+### 🏆 Main Projects
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [Agrihub] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/Agrihub/) |
+| [Tutorial Center Website] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/Physics/) |
 
-🤝 Group-Projects
-🚀 Project | 🔧 Stack | 👁️ View
-None yet
+### 📦 Mini-Projects
+| Project | Stack | Link |
+|---------|-------|------|
+| [Portfolio Website] | Front-End | [Live Site](https://mr-danix.github.io/Portifolio/) |
 
-📫 Contact Me
-Email: danix.435261879@gmail.com
+### 🤝 Group Projects
+None yet, but planning to collaborate on open-source projects soon!  
 
-Thanks for visiting! Let’s build legacy together. 🚀
->>
+---
+
+## 📊 GitHub Stats
+
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-danix&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-danix&layout=compact&theme=radical)
+
+---
+
+## 🔥 Currently Learning
+- React advanced concepts  
+- Python backend development  
+- PostgreSQL & database management  
+- Supabase & Firebase BaaS  
+
+---
+
+## 💻 Fun Stuff
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Frontend+Projects;Learning+Every+Day;Building+Interactive+Websites&font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&center=true)
+
+---
+
+## 📫 Contact Me
+Email: [danix.435261879@gmail.com](mailto:danix.435261879@gmail.com)  
+Telegram: Not yet  
+
+---
+
+Thanks for visiting! Let's build a digital legacy together. 🚀

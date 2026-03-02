@@ -10,7 +10,7 @@ Building modern, interactive web applications and exploring creative solutions. 
 
 Category | Technologies
 ---|---
-🎨 Frontend | HTML, CSS, JavaScript, 
+🎨 Frontend | HTML, CSS, JavaScript,
 🛠️ Backend | Node.js (basic), PHP (learning)
 🗄️ Database | MySQL, PostgreSQL (learning)
 ☁️ Cloud & Hosting | GitHub Pages, Vercel

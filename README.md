@@ -35,9 +35,7 @@ None yet, but planning to collaborate on open-source projects soon!
 
 ## 🔥 Currently Learning
 - React advanced concepts  
-- Python backend development  
-- PostgreSQL & database management  
-- Supabase & Firebase BaaS  
+- Python backend development    
 
 ---
 

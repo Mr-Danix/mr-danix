@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<< Hi there, waving-hand I'm Dan Maregn />
+<< Hi there, waving-hand I'm Dan Maregn />
 
 Hi, I'm Dan Maregn 👋  
 15 years old, student  
@@ -38,4 +38,4 @@ None yet
 Email: danix.435261879@gmail.com
 
 Thanks for visiting! Let’s build legacy together. 🚀
--->
+>>

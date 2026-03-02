@@ -52,7 +52,6 @@ None yet, but planning to collaborate on open-source projects soon!
 
 ## 📫 Contact Me
 Email: [danix.435261879@gmail.com](mailto:danix.435261879@gmail.com)  
-Telegram: Not yet  
 
 ---
 

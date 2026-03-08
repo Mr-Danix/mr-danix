@@ -35,7 +35,8 @@ None yet, but planning to collaborate on open-source projects soon!
 
 ## 🔥 Currently Learning
 - React advanced concepts  
-- Python backend development    
+- Python backend development  
+- Typescript basic concepts
 
 ---
 

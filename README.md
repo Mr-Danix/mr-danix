@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dan Maregn         
+# Hi there 👋, I'm Dan Maregn        
 
 15 years old, student  
 Front-End Web Developer  

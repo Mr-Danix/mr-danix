@@ -25,10 +25,13 @@ Category | Technologies
 | [Personal Financial tracker] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/P.F.T/) |
 
 
+
 ### 📦 Mini-Projects
 | Project | Stack | Link |
 |---------|-------|------|
 | [Portfolio Website] | Front-End | [Live Site](https://mr-danix.github.io/Portifolio/) |
+| [Edu web] | Front-End | [Live Site](https://mr-danix.github.io/Edu-web/) |
+| [Personal Financial Tracker] | Front-End | [Live Site](https://mr-danix.github.io/P.F.T/) |
 
 ### 🤝 Group Projects
 None yet, but planning to collaborate on open-source projects soon!  

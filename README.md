@@ -46,7 +46,7 @@ None yet, but planning to collaborate on open-source projects soon!
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Danix&show_icons=true&theme=tokyonight)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Danix&theme=tokyonight)
 

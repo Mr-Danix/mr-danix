@@ -51,6 +51,7 @@ None yet, but planning to collaborate on open-source projects soon!
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Danix&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Danix&layout=compact&bg_color=0D1117&title_color=33CCFF&text_color=FFFFFF&icon_color=33CCFF)
+## Github Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mr-danix&theme=radical&no-frame=true&column=5&margin-w=5)
 
 ## 💻 Fun Stuff

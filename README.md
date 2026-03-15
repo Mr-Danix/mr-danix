@@ -49,6 +49,9 @@ None yet, but planning to collaborate on open-source projects soon!
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Danix&theme=tokyonight)
+## 🧠 Coding Profiles
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&font=baloo)
 
 ## 💻 Fun Stuff
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Frontend+Projects;Learning+Every+Day;Building+Interactive+Websites&font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&center=true)

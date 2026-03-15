@@ -44,6 +44,11 @@ None yet, but planning to collaborate on open-source projects soon!
 - Typescript basic concepts
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Danix&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Danix&theme=tokyonight)
 
 ## 💻 Fun Stuff
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Frontend+Projects;Learning+Every+Day;Building+Interactive+Websites&font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&center=true)

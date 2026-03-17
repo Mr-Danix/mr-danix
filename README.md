@@ -52,7 +52,7 @@ None yet, but planning to collaborate on open-source projects soon!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Danix&layout=compact&bg_color=0D1117&title_color=33CCFF&text_color=FFFFFF&icon_color=33CCFF)
 ## Github Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mr-danix&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mr-danix&theme=radical&no-frame=true&column=5&margin-w=5)
 
 ## 💻 Fun Stuff
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Frontend+Projects;Learning+Every+Day;Building+Interactive+Websites&font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&center=true)

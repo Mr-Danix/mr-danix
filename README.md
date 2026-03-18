@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Dan Maregn
-[![committers.top badge](https://user-badge.committers.top/ethiopia/USERNAME.svg)](https://user-badge.committers.top/ethiopia/mr-danix)
+
 
 15 years old, student  
 Front-End Web Developer  

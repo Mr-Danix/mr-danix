@@ -21,7 +21,7 @@ Category | Technologies
 ### 🏆 Main Projects
 | Project | Stack | Live Demo |
 |---------|-------|-----------|
-| [Agrihub] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/Agrihub1/) |
+| [Agrihub] | Front-End (HTML, CSS, JS) | [Live Site]() |
 | [Tutorial Center Website] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/Tutorial-center/) |
 | [Personal Financial tracker] | Front-End (HTML, CSS, JS) | [Live Site](https://mr-danix.github.io/P.F.T/) |
 
